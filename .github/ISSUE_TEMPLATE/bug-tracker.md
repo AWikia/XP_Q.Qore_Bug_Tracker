@@ -1,4 +1,3 @@
-<!--
 ---
 name: Bug tracker
 about: The standard way of reporting bugs. Replace any XXX with the actual content
@@ -7,7 +6,6 @@ labels: bug
 assignees: HM100
 
 ---
--->
 
 ## General Information
 **Q.Qore Player Name:** XXX
