@@ -4,29 +4,7 @@
 - Be nice and friendly and describe your issues with as much detail as possible
 
 ## Bug report Issue Template
-```md
-## General Information
-**Q.Qore Player Name:** XXX
-
-**Q.Qore Version:** XXX
-
-**Q.Qore Channel:** XXX
-
-**Description of the issue:** XXX
-
-**What would you expect to see:** XXX
-
-**What you get instead:** XXX
-
-**Your CPU:** XXX
-
-**Your OS:** XXX
-
-## Screenshot (Optional)
-<!-- Put your screenshot here -->
-## Error Message (If you get one)
-<!-- Put your Error Message, if one is found here -->
-```
+You must Select the Bug Tracket Template. Below is an example of how can you follow
 ### Example
 ```md
 ## General Information
