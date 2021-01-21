@@ -2,6 +2,7 @@
 - All Issues must follow either the template of bug reporting or a feature enchancement
 - No spam or hate issues
 - Be nice and friendly and describe your issues with as much detail as possible
+- Users must have Q.Qore installed before they can properly send issues. You can join [our discord server](https://discord.gg/9JEWA8S) to grab download links (Foundable at the description of the ``#general`` channel in the **Qortex Essentials** category)
 
 ## Bug report Issue Template
 You must Select the Bug Tracket Template. Below is an example of how can you follow
