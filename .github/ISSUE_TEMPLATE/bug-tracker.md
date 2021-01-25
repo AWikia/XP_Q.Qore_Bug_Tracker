@@ -10,15 +10,17 @@ assignees: HM100
 ## General Information
 **Q.Qore Player Name:** XXX
 
-**Q.Qore Version:** XXX
+**Q.Qore Version  (Found at the about option in the pause menu, 3rd line):** XXX
 
-**Q.Qore Channel:** XXX
+**Q.Qore Release (Found at the about option in the pause menu, 2nd line):** XXX
+
+**Q.Qore Channel (Found at the about option in the pause menu, 1st line):** XXX
 
 **Description of the issue:** XXX
 
-**What would you expect to see:** XXX
+**What would you expect to see?:** XXX
 
-**What you get instead:** XXX
+**What you get instead?:** XXX
 
 **Your CPU:** XXX
 
